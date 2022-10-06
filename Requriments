@@ -1,0 +1,25 @@
+Team Members : 
+
+Suraj Raj Godugula    - 2836416
+Pradeep Nandagiri     - 2835198
+John Wesely           - 2830415
+Pavan Sai Pamujula    - 2836714
+
+1.0 Introduction : 
+
+Requirements : 
+
+1. User should create an User ID and password to login into his/her account.
+2. If the user doesn't have an account he/she must create an account using the register tab present on the bottom of the apk.
+3. After getting logged in, the apk displays a list of apps that are present in your device.
+4. The user must select the apps which he/she wants to block [select the checkbox present beside.
+5. This apk has no time limit for the blocked applications. 
+6. The user can unblock only when he/she wants to unblock i.e he/she needs to login back again and uncheck the checkboxes which are selected.
+
+
+Objectives:
+
+1. User can block the app from unknown resources.
+2. User can block the app to restrict their children. 
+
+Statement of Scope:
