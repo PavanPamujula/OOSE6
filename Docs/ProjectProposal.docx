@@ -1,0 +1,12 @@
+Team Members:
+1.	Suraj Raj
+2.	Pradeep Nandagiri
+3.	John Wesley
+4.	Pavan Sai Pamujula
+
+Project Title: Credit card fraud detection
+
+INTRODUCTION
+Now a day the usage of credit cards has dramatically increased. As credit card becomes the most popular mode of payment for both online as well as regular purchase, cases of fraud associated with it are also rising. In this paper, we model the sequence of operations in credit card transaction processing using a Decision tree and Deep Neural Network show how it can be used for the detection of frauds. An both algorithms is initially trained with the normal behaviour of a cardholder. If an incoming credit card transaction is not accepted by the trained with sufficiently high probability, it is considered to be fraudulent. At the same time, we try to ensure that genuine transactions. We present detailed experimental results to show the effectiveness of our approach and compare it with other techniques available in the literature.
+ABSTRACT
+    In our project, mainly focused on credit card fraud detection for in real world. Initially I will collect the credit card datasets for trained dataset. Then will provide the user credit card queries for testing data set. After classification process of random forest algorithm using to the already analyzing data set and user provide current dataset. Finally optimizing the accuracy of the result data. Then will apply the processing of some of the attributes provided can find affected fraud detection in viewing the graphical model visualization. The performance of the techniques is evaluated based on accuracy, sensitivity, and specificity, precision. The results indicate about the optimal accuracy for Decision tree are 98.6% respectively.
