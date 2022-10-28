@@ -11,4 +11,5 @@ Time Log:
             4:00pm - 8:00pm Finalising the data Collected and Gathering Extra Information.
 10/24/2022: 10:00am - 12:00pm Making an RAW data into document for Requirements Submission. 
 
-10/26/2022: 5:00 pm - 5:30pm Disscussed about test cases with teammates. 
+10/26/2022: 5:00pm - 5:30pm Disscussed about test cases with teammates. 
+10/28/2022: 9:30am - 12:00pm Gathering information about how the test specifications needs to be done. 
