@@ -16,3 +16,4 @@ Time Log:
 10/29/2022: 9:40am - 10:30am Working on Test Plan and on Test cases. 
             11:00am - 12:00pm Helped making raw data on Test cases. 
 10/31/2022: 8:00am - 10:30am Helped making a proper documentation. Finalising the report. 
+01/11/2022: 5:00pm - 6:20pm Getting Knowledge about the design patterns to implement into assignment document. 
