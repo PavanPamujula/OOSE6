@@ -1,0 +1,4 @@
+PURPOSE OF THE PROJECT 
+                 We propose a Machine learning model to detect the fraudulent credit card activities in online financial transactions . Analysing fraudulent transactions manually is unfeasible due to huge amounts of data and its complexity. However, given sufficiently informative features, one could expect it is possible to do using Machine Learning. This hypothesis will be explored in the project.
+           To  classify fraudulent and legitimate credit card transaction by supervised learning Algorithm such as Random forest.
+            To helps us to get awareness about the fraudulent  and without loss of any financially.

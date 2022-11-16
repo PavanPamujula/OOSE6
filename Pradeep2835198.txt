@@ -1,0 +1,19 @@
+Time Log:
+10/18/2022: 8:00PM - 9:30PM Discussed about Project Proposal.
+10/19/2022: 7:30pm - 8:00pm Helped making document for Project Proposal.
+10/20/2022: 7:50pm - 11:00pm Gathered information about the Project and requirement details.
+10/21/2022: 2:30pm - 4:00pm Getting Familiar with Anakonda and Python programming language. 
+            7:00pm - 9:30pm Created an Document for requirement and added details about Python Programming Language.
+10/22/2022: 10:00am - 11:40am Getting some Knowledge on Usage Senerio
+            2:30pm - 3:40pm Made an Documentation on User Profiles and Use - cases. 
+            11:00pm - 12:00am Created use case diagrams and updated Requirements Document.
+10/23/2022: 10:30am - 1:00pm Getting Data about Data Modules, Data Objects, Relations. 
+            4:00pm - 8:00pm Finalising the data Collected and Gathering Extra Information.
+10/24/2022: 10:00am - 12:00pm Making an RAW data into document for Requirements Submission. 
+
+10/26/2022: 5:00pm - 5:30pm Disscussed about test cases with teammates. 
+10/28/2022: 9:30am - 12:00pm Gathering information about how the test specifications needs to be done. 
+10/29/2022: 9:40am - 10:30am Working on Test Plan and on Test cases. 
+            11:00am - 12:00pm Helped making raw data on Test cases. 
+10/31/2022: 8:00am - 10:30am Helped making a proper documentation. Finalising the report. 
+01/11/2022: 5:00pm - 6:20pm Getting Knowledge about the design patterns to implement into assignment document. 
