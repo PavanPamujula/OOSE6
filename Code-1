@@ -1,0 +1,25 @@
+import pandas as pd
+import numpy as np
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt
+np.random.seed(2)
+
+data = pd.read_csv('creditcard.csv')
+
+Data Exploration :
+- data.head()
+
+- data[0:2]
+
+- type(data)
+
+- df2 = data.values
+  type(df2)
+  
+  Data Preprocessing :
+  from sklearn.preprocessing import StandardScaler
+data['normalizedAmount'] = StandardScaler().fit_transform(data['Amount'].values.reshape(-1,1))
+data = data.drop(['Amount'],axis=1)
+
+- data.head()
