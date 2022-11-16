@@ -7,7 +7,7 @@ np.random.seed(2)
 
 data = pd.read_csv('creditcard.csv')
 
-Data Exploration :
+----- Data Exploration ------
 - data.head()
 
 - data[0:2]
@@ -17,7 +17,7 @@ Data Exploration :
 - df2 = data.values
   type(df2)
   
-  Data Preprocessing :
+       ---- Data Preprocessing -----
   from sklearn.preprocessing import StandardScaler
 data['normalizedAmount'] = StandardScaler().fit_transform(data['Amount'].values.reshape(-1,1))
 data = data.drop(['Amount'],axis=1)
