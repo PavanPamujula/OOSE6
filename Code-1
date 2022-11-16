@@ -23,3 +23,6 @@ data['normalizedAmount'] = StandardScaler().fit_transform(data['Amount'].values.
 data = data.drop(['Amount'],axis=1)
 
 - data.head()
+ 
+- data = data.drop(['Time'],axis=1)
+data.head()
