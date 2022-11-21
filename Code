@@ -7,7 +7,7 @@ np.random.seed(2)
 
 data = pd.read_csv('creditcard.csv')
 
------ Data Exploration ------
+                    ----- Data Exploration ------
 - data.head()
 
 - data[0:2]
@@ -17,7 +17,7 @@ data = pd.read_csv('creditcard.csv')
 - df2 = data.values
   type(df2)
   
-       ---- Data Preprocessing -----
+                    ---- Data Preprocessing -----
   from sklearn.preprocessing import StandardScaler
 data['normalizedAmount'] = StandardScaler().fit_transform(data['Amount'].values.reshape(-1,1))
 data = data.drop(['Amount'],axis=1)
@@ -39,7 +39,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size = 0.3, random
 X_train.shape
 X_test.shape
 
-Implementation of Random Forest Algorithm
+                   Implementation of Random Forest Algorithm
 
 from sklearn.ensemble import RandomForestClassifier
 random_forest = RandomForestClassifier(n_estimators=100)
